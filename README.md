@@ -12,12 +12,6 @@ With Flashmaster, you can easily create and study with flashcards online.
 
 To get started, just make an account with a valid email address and you'll be logged in automatically.
 
-# ![Login](https://github.com/zrromano/FlashMaster/blob/master/images/login.png?raw=true)
-
-# ![Register](https://github.com/zrromano/FlashMaster/blob/master/images/register.png?raw=true)
-
-
-
 Once you're logged in, head over to the flashcards and create a new collection.
 
 # ![Flashcards](https://github.com/zrromano/FlashMaster/blob/master/images/flashcards.png?raw=true)
