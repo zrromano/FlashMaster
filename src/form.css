@@ -1,0 +1,68 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+}
+.form-group {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.input {
+  width: 100%;
+  padding: 0.4rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 0.4rem;
+}
+.select {
+  width: 50%;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+}
+.button {
+  width: 6rem;
+  height: 2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: black;
+  background-color: lightgray;
+  cursor: pointer;
+  border-radius: 0.4rem;
+  border: none;
+  outline: none;
+  box-shadow: 0 0.3rem gray;
+}
+.button:active {
+  background-color: darkgray;
+  box-shadow: 0 0.1rem gray;
+  transform: translateY(0.2rem);
+}
+.button:disabled {
+  background-color: darkgray;
+}
+.smalltext {
+  color: gray;
+  font-size: 12px;
+}
+.errortext {
+  color: red;
+  font-size: 12px;
+}
+.form-link {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: blue;
+}
+.col-2 {
+  width: 6rem;
+}
+.col-4 {
+  width: 12rem;
+}
+.col-6 {
+  width: 18rem;
+}
+.col-8 {
+  width: 24rem;
+}

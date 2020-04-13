@@ -1,0 +1,34 @@
+.collections-container {
+  height: 54rem;
+}
+
+.collections-title {
+  width: 100%;
+  height: 2rem;
+  padding: 0.5rem;
+}
+
+.create-button {
+  width: 16rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.create-button:hover {
+  background-color: lightgray;
+  transition: ease-in 400ms;
+}
+
+.collections-grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+
+.collection {
+  flex-direction: row;
+  border: 2px solid gray;
+  width: 18rem;
+  height: 24rem;
+  margin: auto;
+}
