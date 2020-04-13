@@ -2,8 +2,6 @@
 
 **Welcome to Flashmaster!**
 
-**note** Flashmaster hasn't been deployed yet, but it's almost ready! If you want to try it out for now, clone this repository and make a .env file in the root directory with credentials for a Firebase project.
-
 With Flashmaster, you can easily create and study with flashcards online.
 
 # ![Flashcard example](https://github.com/zrromano/FlashMaster/blob/master/images/example.png?raw=true)
@@ -23,3 +21,5 @@ Once you're logged in, head over to the flashcards and create a new collection.
 
 
 Now you're ready to get studying!
+
+**note** Flashmaster hasn't been deployed yet, but it's almost ready! If you want to try it out for now, clone this repository and make a .env file in the root directory with credentials for a Firebase project.
